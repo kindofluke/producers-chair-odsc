@@ -3,3 +3,5 @@ datarobot
 onnxruntime==1.17.1
 langchain-community
 networkx
+scikit-learn
+fastembed==v0.2.4
