@@ -1,5 +1,5 @@
 altair
-datarobot
+datarobot-early-access
 onnxruntime==1.17.1
 langchain-community
 networkx
