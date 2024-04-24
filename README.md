@@ -10,7 +10,7 @@ Generative AI is so imaginative and so creative but organizations str4uggle to t
 
 # Materials for Today
 
-[Poster](./TheLastHorizon.png)
+![Poster](./TheLastHorizon.png)
 
 ## Application
 
@@ -25,3 +25,12 @@ There are two notebooks in this repo and also a copy of all the data. In both no
 RUN_DATA = False
 ```
 These control certain long-running actions to create the datasets and load them from disk. This is just meant to speed up the process. 
+
+The notebooks do use DataRobot APIs which will require a DataRobot API Key. You can get a free trial at https://www.datarobot.com/trial/ However, there also code cells that build models and the vector DB without DataRobot so a key is not required. 
+
+
+## System Requirements
+
+1. Python 3.11
+2. Install all of the requriements in the requirements.txt file
+3. Consider using a cloud hosted notebook such as DataRobot CodeSpaces OR Google Colab becuase the embedding model can be quite large 500mb downloaded to create the vector database. 
