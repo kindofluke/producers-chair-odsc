@@ -10,7 +10,8 @@ Generative AI is so imaginative and so creative but organizations str4uggle to t
 
 # Materials for Today
 
-![Poster](./TheLastHorizon.png)
+<img src="TheLastHorizon.png" width="200px"></img>
+
 
 ## Application
 
