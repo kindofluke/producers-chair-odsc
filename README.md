@@ -17,6 +17,8 @@ Generative AI is so imaginative and so creative but organizations str4uggle to t
 
 Everything we build today comes together at **https://the-producers-chair.glitch.me/** where you can try out AI Generated ideas against the predictive models we build today. *Note that after May 1 the app will go to sleep or when my $25 Anthropic account runs out*. 
 
+If you want to edit the application, you can fork it on Glitch. https://glitch.com/@kindofluke
+
 ## Building the Models and Vector DB
 
 There are two notebooks in this repo and also a copy of all the data. In both notebooks keep an eye out for boolean values like this: 
